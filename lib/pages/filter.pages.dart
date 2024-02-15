@@ -247,4 +247,3 @@ class _FilterPageState extends State<FilterPage> {
     );
   }
 }
-var data;

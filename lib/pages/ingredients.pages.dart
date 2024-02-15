@@ -34,6 +34,7 @@ class _IngredientPageState extends State<IngredientPage> {
               itemCount: ingredientProvider.ingredientsList!.length,
               itemBuilder: (ctx, index) => ListTile(
                 leading: Checkbox(
+                    activeColor: Colors.deepOrange,
                     value: ingredientProvider
                         .ingredientsList![index].users_ids
                         ?.contains(FirebaseAuth
