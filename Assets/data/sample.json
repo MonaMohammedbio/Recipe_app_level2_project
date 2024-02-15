@@ -1,0 +1,22 @@
+{
+"ads":[
+  {
+    "title": "New Meals",
+    "image": "https://firebasestorage.googleapis.com/v0/b/recipe-app-15a28.appspot.com/o/Screenshot%202024-02-10%20010440.png?alt=media&token=9175da67-c468-4cae-ab2c-ab51f1cb180e"
+  },
+  {
+    "title": "Healthy Meals",
+    "image":"https://firebasestorage.googleapis.com/v0/b/recipe-app-15a28.appspot.com/o/Screenshot%202024-02-10%20002345.png?alt=media&token=deedbb60-ebec-4efe-8d4b-8871d4fe2eb4"
+  },
+  {
+    "title": "Less Carbs Meals",
+    "image": "https://firebasestorage.googleapis.com/v0/b/recipe-app-15a28.appspot.com/o/Screenshot%202024-02-10%20005104.png?alt=media&token=266183b7-f4a1-48f9-8661-e9cf03165921"
+  }
+
+]
+
+,
+"recipes": {},
+"users": {}
+
+}
